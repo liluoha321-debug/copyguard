@@ -1,156 +1,60 @@
-# 使用前须知 / Before You Use
+# CopyGuard
 
-感谢使用 Universal Copy Editor。
+**发布之前，再检查一遍。**  
+**Check before you publish.**
 
-这是一套用于**内容审校、润色、逻辑检查、事实核查辅助与发布前 QC** 的 Skill。
-为了避免误用，建议在使用前了解以下几点。
+CopyGuard is a general-purpose editorial QC Skill for proofreading, logic checks, consistency review, readability improvement, and multilingual content editing.
 
-## 1. 它是编辑助手，不是最终责任人
-
-本 Skill 可以帮助发现：
-- 错别字、语病、标点问题
-- 重复表达和结构问题
-- 前后矛盾
-- 逻辑跳跃
-- 数据与单位问题
-- 宣传腔、模板化表达
-- 需要进一步核查的事实
-- 潜在发布风险
-
-但最终发布责任仍由使用者承担。
-
-对于重要稿件，尤其是：
-- 新闻报道
-- 法律文件
-- 医疗健康内容
-- 财经投资内容
-- 政策解读
-- 企业公告
-- 对个人或机构的负面指控
-
-建议在发布前进行人工复核。
-
-## 2. “事实核查”不等于绝对正确
-
-Pro 版可以在具备联网/检索能力时，对重要事实进行外部核查。
-
-但实际核查结果仍可能受到以下因素影响：
-- 信息源不完整
-- 官方信息更新滞后
-- 不同来源口径不同
-- 地区、版本、时间点不同
-- 原始资料无法访问
-- 搜索结果本身存在错误
-
-因此，Skill 会尽量区分：
-- 已外部验证
-- 需要核查
-- 来源冲突
-- 可能已过时
-
-不要把任何自动核查结果视为法律意义或专业意义上的最终认证。
-
-## 3. 它不是 AI 文本检测器
-
-“模板化表达风险”只分析可观察到的写作特征，例如：
-- 套话过多
-- 段落结构过于机械
-- 反复使用固定转折
-- 空泛总结
-- 句式高度重复
-
-它**不能证明**一篇文字是不是由 AI 生成。
-
-## 4. 多语言支持有边界
-
-本 Skill 可以处理中文、英文、日文、西班牙文、法文、德文、韩文等多种语言，
-并默认使用原文语言进行审校。
-
-但多语言能力并不意味着：
-- 所有语言都等同于母语编辑水平
-- 所有地区方言和行业术语都能完全覆盖
-- 法律/医疗/政策文本可以替代当地专业人士
-
-对于高风险或正式发布内容，建议进行母语人工复核。
-
-## 5. 不要把敏感或不该公开的内容直接上传
-
-如果内容包含：
-- 身份证件
-- 银行账户
-- 未公开商业机密
-- 客户隐私
-- 医疗隐私
-- 密码、密钥
-- 内部合同
-- 保密文件
-
-请先确认你的使用环境是否适合处理这些内容，并尽量进行脱敏。
-
-## 6. 不会为了“显得专业”而故意挑错
-
-本 Skill 的目标不是制造问题，而是减少真实问题。
-
-如果一篇稿子没有明显错误，它应该直接告诉你：
-**可以使用**，而不是硬凑一堆修改建议。
-
-## 7. 默认不会整篇重写
-
-除非你明确要求：
-- 直接改
-- 重写
-- 润色成最终版
-- 给我可发布版本
-
-否则 Skill 会优先：
-**指出问题 → 解释原因 → 给出建议**
-
-这样可以最大程度保留原作者的表达风格。
-
-## 8. 建议的使用方式
-
-日常使用：
-
-> 帮我检查一下这篇稿子，不要重写，只告诉我问题。
-
-专业审稿：
-
-> 做一次 Deep QC，重点检查事实、数字、逻辑和发布风险。
-
-多语言：
-
-> Review this article in English and keep the original tone.
-
-或：
-
-> この文章を日本語のまま校正してください。書き直しは最小限にしてください。
-
-## 9. 版本差异
-
-### Free
-适合：
-- 日常写作
-- 错别字
-- 语病
-- 可读性
-- 基础逻辑
-- 前后矛盾
-- 轻度润色
-
-### Pro
-增加：
-- Deep QC
-- 外部事实核查
-- 行业 Profile
-- 多语言增强规则
-- 100 分编辑评分
-- 数字与计算专项审核
-- 发布准备度
-- 发布/声誉风险
-- Style Profile
-- 高级 Rewrite + QC
+CopyGuard 是一个通用内容审校与发布前 QC Skill，可用于错别字、逻辑、前后一致性、可读性以及多语言内容检查。
 
 ---
 
-使用本 Skill 即表示你理解：
-**它是辅助编辑与质量控制工具，而不是法律、医疗、金融或出版责任的替代者。**
+## ✨ Features / 功能
+
+CopyGuard Free currently supports:
+
+- Typo & grammar checking / 错别字与语病检查
+- Punctuation review / 标点检查
+- Repetition detection / 重复表达检查
+- Readability improvement / 可读性优化
+- Basic logic review / 基础逻辑检查
+- Internal consistency checks / 前后一致性检查
+- Light rewriting / 轻度润色
+- Multilingual editorial review / 多语言内容审校
+
+CopyGuard preserves the author's original voice whenever possible and does not rewrite the entire text unless explicitly requested.
+
+CopyGuard 会尽量保留原作者的表达风格，除非明确要求，否则不会默认整篇重写。
+
+---
+
+## 🌍 Multilingual Support / 多语言支持
+
+CopyGuard can review content in multiple languages, including:
+
+- 中文
+- English
+- 日本語
+- Español
+- Français
+- Deutsch
+- Italiano
+- Português
+- 한국어
+
+By default, CopyGuard reviews and rewrites in the same language as the source text.
+
+默认情况下，CopyGuard 会使用原文语言进行审校和修改，不会擅自翻译。
+
+Other languages may also work through general editorial QC, but review quality may vary.
+
+---
+
+## 🚀 Usage / 使用方式
+
+Install or load the Skill, then provide your text with a simple instruction.
+
+### Basic review
+
+```text
+帮我检查一下这篇稿子，不要重写，只告诉我问题。
