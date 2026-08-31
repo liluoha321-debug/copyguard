@@ -1,21 +1,274 @@
-MIT License
+CopyGuard Free License v1.0
+CopyGuard 免费使用许可证 v1.0
 
-Copyright (c) 2026 liluoha321-debug
+Copyright (c) 2026 CopyGuard
+All rights reserved except as expressly granted below.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+版权所有 © 2026 CopyGuard
+除本许可证明确授予的权利外，保留所有权利。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+============================================================
+ENGLISH
+============================================================
+
+1. PERMITTED USE
+
+You are granted a free, non-exclusive, non-transferable license to:
+
+a. Use CopyGuard Free for personal use.
+
+b. Use CopyGuard Free internally for work, study, content creation,
+   research, or other lawful purposes.
+
+c. Modify CopyGuard Free for your own personal or internal use.
+
+d. Use content reviewed, edited, rewritten, or otherwise processed
+   with CopyGuard Free for personal or commercial purposes.
+
+This license does not claim ownership over content created, edited,
+or processed using CopyGuard Free.
+
+
+2. REDISTRIBUTION
+
+You may share the official CopyGuard repository or official download
+link with others.
+
+You may not redistribute, publish, mirror, sublicense, or provide
+modified or unmodified copies of CopyGuard Free as your own product,
+service, package, template, Skill, prompt collection, or downloadable
+resource without prior written permission.
+
+
+3. COMMERCIAL RESTRICTIONS
+
+You may use CopyGuard Free as a tool in your own commercial work.
+
+However, you may NOT:
+
+a. Sell CopyGuard Free itself.
+
+b. Resell, sublicense, rent, or commercially distribute CopyGuard Free.
+
+c. Repackage CopyGuard Free, whether modified or unmodified, as part
+   of a paid product, paid Skill collection, paid prompt library,
+   course package, software package, subscription, membership,
+   marketplace listing, or other commercial offering.
+
+d. Create a substantially identical commercial product primarily by
+   copying, repackaging, or lightly modifying CopyGuard Free.
+
+e. Charge users specifically for access to a hosted or redistributed
+   copy of CopyGuard Free without written permission.
+
+
+4. MODIFICATIONS
+
+You may modify CopyGuard Free for personal or internal use.
+
+You may not publicly redistribute modified versions as an independent
+product or project without written permission.
+
+If you wish to publish a derivative version, please obtain permission
+from the copyright holder first.
+
+
+5. ATTRIBUTION AND BRANDING
+
+You may not remove or misrepresent copyright notices.
+
+You may not claim that your modified or redistributed version is the
+official CopyGuard project.
+
+The names "CopyGuard", "CopyGuard Free", and "CopyGuard Pro", together
+with associated branding, are not granted for use as names of competing
+or derivative commercial products under this license.
+
+
+6. COPYGUARD PRO
+
+This license applies only to CopyGuard Free.
+
+CopyGuard Pro, paid editions, private domain profiles, commercial
+extensions, and other separately distributed materials are NOT covered
+by this license unless explicitly stated otherwise.
+
+All rights to CopyGuard Pro and separately distributed commercial
+materials are reserved.
+
+
+7. OUTPUT OWNERSHIP
+
+This license does not impose ownership restrictions on text, documents,
+scripts, articles, reports, or other content reviewed or modified using
+CopyGuard Free.
+
+Users remain responsible for ensuring that their source material and
+resulting content comply with applicable copyright, privacy, contractual,
+and other legal obligations.
+
+
+8. NO WARRANTY
+
+COPYGUARD FREE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY,
+NONINFRINGEMENT, OR FITNESS FOR PUBLICATION.
+
+THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES,
+LOSS, OR OTHER LIABILITY ARISING FROM THE USE OF COPYGUARD FREE.
+
+
+9. TERMINATION
+
+Your rights under this license terminate automatically if you materially
+violate its terms.
+
+Upon termination, you must stop distributing or commercially exploiting
+any unauthorized copies or derivative versions of CopyGuard Free.
+
+
+10. PERMISSION
+
+For redistribution, commercial licensing, derivative products, platform
+integration, or other uses not permitted by this license, please contact
+the copyright holder for written permission.
+
+
+
+============================================================
+中文
+============================================================
+
+1. 允许的使用方式
+
+在遵守本许可证的前提下，你可以免费、非独占地：
+
+a. 将 CopyGuard Free 用于个人用途。
+
+b. 将 CopyGuard Free 用于工作、学习、内容创作、研究或其他合法的内部用途。
+
+c. 修改 CopyGuard Free，并用于个人或内部使用。
+
+d. 将经过 CopyGuard Free 检查、编辑、润色或修改后的内容用于个人或商业用途。
+
+本许可证不会对你使用 CopyGuard Free 所创建、编辑或处理的内容主张所有权。
+
+
+2. 分享与再分发
+
+你可以向其他人分享 CopyGuard 官方 GitHub 仓库或官方下载链接。
+
+未经版权所有者事先书面许可，你不得将 CopyGuard Free 的原版或修改版：
+
+- 重新上传；
+- 镜像发布；
+- 再分发；
+- 再许可；
+- 包装为自己的产品；
+- 包装为自己的 Skill；
+- 包装为 Prompt 合集；
+- 包装为模板；
+- 包装为可下载资源。
+
+
+3. 商业使用限制
+
+你可以将 CopyGuard Free 作为工具，用于自己的商业工作或商业内容生产。
+
+但是，你不得：
+
+a. 直接销售 CopyGuard Free 本身。
+
+b. 转售、出租、再许可或商业分发 CopyGuard Free。
+
+c. 将 CopyGuard Free 的原版或修改版重新包装，并作为以下内容的一部分收费：
+
+- 付费产品；
+- 付费 Skill 合集；
+- 付费 Prompt 库；
+- 课程资料包；
+- 软件包；
+- 订阅服务；
+- 会员内容；
+- 商店或市场商品；
+- 其他商业产品或服务。
+
+d. 通过复制、重新包装或轻度修改 CopyGuard Free，
+   制作实质上高度相同的商业产品并进行销售。
+
+e. 未经书面许可，不得专门向用户收取访问托管版、
+   再分发版 CopyGuard Free 的费用。
+
+
+4. 修改
+
+你可以为了个人或内部使用修改 CopyGuard Free。
+
+未经书面许可，你不得将修改后的版本作为独立产品或独立项目公开再分发。
+
+如果你希望公开发布衍生版本，请先获得版权所有者的许可。
+
+
+5. 署名与品牌
+
+不得删除、篡改或错误表述原有版权声明。
+
+不得声称修改版或再分发版本属于 CopyGuard 官方版本。
+
+本许可证不授予你使用以下名称作为竞争产品或商业衍生产品名称的权利：
+
+- CopyGuard
+- CopyGuard Free
+- CopyGuard Pro
+
+以及与 CopyGuard 有关的其他品牌标识。
+
+
+6. CopyGuard Pro
+
+本许可证仅适用于 CopyGuard Free。
+
+CopyGuard Pro、付费版本、私有行业 Profile、商业扩展包以及其他单独分发的
+商业内容，不受本许可证授权，除非相关内容另有明确说明。
+
+CopyGuard Pro 及其他商业材料的全部权利均予保留。
+
+
+7. 输出内容权利
+
+本许可证不会限制你对使用 CopyGuard Free 所检查、修改或润色的文章、
+脚本、报告、文档或其他内容所享有的合法权利。
+
+使用者应自行确保输入材料及最终内容符合适用的版权、隐私、合同及其他法律要求。
+
+
+8. 免责声明
+
+COPYGUARD FREE 按“现状”提供，不提供任何明示或暗示的保证，
+包括但不限于适销性、特定用途适用性、准确性、不侵权或可直接发布的保证。
+
+版权所有者不对因使用 CopyGuard Free 所产生的任何损失、索赔、
+损害或其他责任承担责任。
+
+
+9. 许可证终止
+
+如果你严重违反本许可证条款，本许可证授予你的权利将自动终止。
+
+终止后，你必须停止未经授权的再分发、销售或商业利用行为。
+
+
+10. 其他授权
+
+如果你希望进行以下行为：
+
+- 商业再分发；
+- 商业授权；
+- 制作衍生产品；
+- 平台集成；
+- 批量部署；
+- 本许可证未明确允许的其他用途；
+
+请事先联系版权所有者并获得书面授权。
